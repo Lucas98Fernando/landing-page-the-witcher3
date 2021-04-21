@@ -57,6 +57,7 @@
         color: $white;
         text-transform: uppercase;
         transition: 0.5s ease-in-out;
+        font-family: $zen-dots;
 
 
         @include responsive(sm) {
@@ -120,6 +121,7 @@
         color: $white;
         text-transform: uppercase;
         transition: 0.5s ease-in-out;
+        font-family: $zen-dots;
 
         @include responsive(sm) {
             display: flex;

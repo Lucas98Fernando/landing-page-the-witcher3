@@ -132,6 +132,7 @@ p {
   text-transform: uppercase;
   -webkit-transition: 0.5s ease-in-out;
   transition: 0.5s ease-in-out;
+  font-family: "Zen Dots", sans-serif;
 }
 
 @media screen and (max-width: 960px) {
@@ -207,6 +208,7 @@ p {
   text-transform: uppercase;
   -webkit-transition: 0.5s ease-in-out;
   transition: 0.5s ease-in-out;
+  font-family: "Zen Dots", sans-serif;
 }
 
 @media screen and (max-width: 960px) {
